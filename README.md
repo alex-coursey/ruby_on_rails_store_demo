@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+For this project I am using the [Ruby on Rails Docs](https://guides.rubyonrails.org/getting_started.html) to create a demo of an e-commerce store.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The goal of this project is to better familiarize myself with Ruby and Ruby on Rails, as well as PostgreSQL.
